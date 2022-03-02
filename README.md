@@ -1,0 +1,2 @@
+# Software-agents-versus-humans
+This analysis compares rates of coalition formation between a special software agent versus an actual human player. The model is based on a solution concept from cooperative game theory called core and agent-based modeling approaches. The results of the analysis indicate some humans reach the core coalition faster in the earlier rounds when compared to the special software agent or the other computerized agents. This work has been published in Simulation: Transactions of the Society for Modeling and Simulation International journal. 
